@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-jr",
+  "version": "1.0.0",
+  "description": "Random String Message from JRAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Alejos <josera.a19@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-jr": "./bin/global.js"
+  },
+  "preferGlobal": true
+}  
